@@ -1,0 +1,19 @@
+.dashboard {
+  display: none;
+}
+
+.help:hover + img {
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  z-index: 1;
+  background-color: #af52de;
+  border: 1px solid black;
+  padding: 5px;
+  max-width: 100%;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #af52de;
+}

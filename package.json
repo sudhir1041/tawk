@@ -1,0 +1,14 @@
+{
+  "name": "zaptool",
+  "version": "1.0.0",
+  "description": "Sample ZapTool Node + React app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
